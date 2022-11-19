@@ -1,0 +1,6 @@
+# macOS Desktop Service
+.DS_Store
+
+# IDE configuration
+.idea
+.vscode
